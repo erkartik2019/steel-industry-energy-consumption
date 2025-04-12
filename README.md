@@ -102,6 +102,3 @@ Below are the report pages and dashboards that cover the project output:
 
 **Cost and Emission Analysis:**
 ![Updated_page-0005](https://github.com/user-attachments/assets/ad468638-144f-4573-afc4-8649fbcc9209)
-
-**Executive Summary:**
-![Executive Summary](https://github.com/user-attachments/assets/7dc19a21-de6d-4439-8632-d5f0bb410e2b)
