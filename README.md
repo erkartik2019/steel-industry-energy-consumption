@@ -88,17 +88,20 @@ The Power BI report and dashboard will be designed to be dynamic and interactive
 
 Below are the report pages and dashboards that cover the project output:
 
+**2018 Energy and Production Overview:**
+![Updated_page-0001](https://github.com/user-attachments/assets/caddf3c5-e770-4eda-bc50-beef393eb867)
+
 **Energy Consumption Analysis:**
-![Energy Consumption Patterns](https://github.com/user-attachments/assets/65234c47-4ccc-4e64-a911-7c8b418817b9)
+![Updated_page-0002](https://github.com/user-attachments/assets/fb623d64-4a22-4d30-8d87-6a2caa6fe974)
 
 **Power Quality Analysis:**
-![Power Quality Analysis](https://github.com/user-attachments/assets/76c392ba-0548-4328-992b-8b4715957fc4)
+![Updated_page-0003](https://github.com/user-attachments/assets/bba69b7f-8465-4b0a-9ce0-ec22446e35e5)
 
 **Production and Energy Intensity Analysis:**
-![Production and Energy Intensity Analysis](https://github.com/user-attachments/assets/1789b6cf-5105-46d7-aa73-fc99e7840631)
+![Updated_page-0004](https://github.com/user-attachments/assets/8dd23aa4-9f51-401c-9aa2-7e2e9c006a45)
 
 **Cost and Emission Analysis:**
-![Cost and Emission Analysis](https://github.com/user-attachments/assets/115a930d-0f23-45c9-9e2a-ddab7a654996)
+![Updated_page-0005](https://github.com/user-attachments/assets/ad468638-144f-4573-afc4-8649fbcc9209)
 
 **Executive Summary:**
 ![Executive Summary](https://github.com/user-attachments/assets/7dc19a21-de6d-4439-8632-d5f0bb410e2b)
